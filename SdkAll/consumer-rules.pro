@@ -1,3 +1,3 @@
 
 
--keep class systems.keyvalue.librarytwo.MainClass** {*;}
+-keep class systems.keyvalue.sdkall.MainSdk** {*;}
