@@ -21,4 +21,4 @@
 #-renamesourcefileattribute SourceFile
 
 
--keep class systems.keyvalue.librarytwo.MainClassTwo** {*;}
+-keep class systems.keyvalue.librarytwo.MainClass** {*;}
